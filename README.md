@@ -2,7 +2,7 @@
 
 Это учебный проект, демонстрирующий основы работы с цветовыми пространствами с использованием библиотеки Emgu.CV в десктопном приложении на C# и WPF.
 
-[[<-- Предыдущая лабораторная работа](https://github.com/TheSkyEye1/AOCI-Simple-Image-Redactor-EmguCV)]      [[Следуюшая лабораторная работа -->]()]
+<kbd>[<-- Предыдущая](https://github.com/TheSkyEye1/AOCI-Simple-Image-Redactor-EmguCV)</kbd> &nbsp; <kbd>[Следующая -->]()</kbd>
 
 ## Функционал
 
